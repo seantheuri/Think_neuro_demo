@@ -1,2 +1,6 @@
 Sean Theuri
+<<<<<<< HEAD
 Rayhan Garuthman
+=======
+Marco
+>>>>>>> 7f3f789a18f8cf91ca5cbbbb0bf8a7c808548342
