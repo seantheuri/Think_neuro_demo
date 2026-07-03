@@ -1,3 +1,3 @@
 # Think_neuro_demo
-Everyone will join
+Hello! Rachel here.
 Try 2
